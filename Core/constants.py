@@ -1,0 +1,11 @@
+# =====================================
+# IREF Core - Constantes
+# =====================================
+
+TIPO_CREDITOS_ESTUDIANTILES = "CREDITOS_ESTUDIANTILES"
+
+TIPO_DOCENTES = "DOCENTES"
+
+TIPO_CONSEJO_DIRECTIVO = "CONSEJO_DIRECTIVO"
+
+TIPO_RECTIFICACION = "RECTIFICACION"
