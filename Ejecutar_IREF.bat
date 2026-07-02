@@ -11,6 +11,6 @@ echo.
 
 start http://localhost:8501
 
-py -m streamlit run app.py
+streamlit run app.py
 
 pause
