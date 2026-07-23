@@ -1,0 +1,23 @@
+# Ejecutables
+*.exe
+*.bin
+IREF_Server
+
+# PyInstaller
+build/
+dist/
+*.spec
+
+# Python
+__pycache__/
+*.pyc
+
+# Streamlit
+.streamlit/
+
+# Entornos virtuales
+venv/
+.venv/
+
+# Resultados
+reporte.xlsx
